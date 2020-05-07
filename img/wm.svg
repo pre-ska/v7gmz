@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="30"
+   height="25"
+   viewBox="0 0 30 25"
+   id="svg5295"
+   version="1.1"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="wm.svg">
+  <defs
+     id="defs5297" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="64"
+     inkscape:cx="20.783577"
+     inkscape:cy="10.507181"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     units="px"
+     inkscape:window-width="1920"
+     inkscape:window-height="1011"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid5843" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5300">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-1027.3622)">
+    <path
+       style="fill:#808080;fill-opacity:1;stroke-width:1.00153601"
+       d="M 3,5.9980469 V 18.003906 h 8.998563 v -0.99414 H 5.0097656 V 8.0703125 L 12.017578,14.050781 19.005859,8.0644531 V 10.900391 L 21.003906,9.1953125 V 5.9980469 Z m 2.4707031,1 H 18.564453 l -6.546875,5.5878911 z"
+       transform="translate(0,1027.3622)"
+       id="rect5929"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccccccccccccc" />
+    <path
+       id="path814"
+       d="m 12.454147,1044.362 -0.01219,2.618 2.476347,0.2708 8.523653,-7.2708 -2.464142,-2.889 z m 13.214059,-6.2812 -2.464163,-2.8886 -1.409688,1.2024 2.464159,2.8887 z"
+       inkscape:connector-curvature="0"
+       style="fill:#ff5555;stroke-width:0.35797992"
+       sodipodi:nodetypes="ccccccccccc" />
+  </g>
+</svg>
