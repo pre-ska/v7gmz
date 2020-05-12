@@ -9,3 +9,7 @@
 <p align="center">
   <img width="762" height="358" src="https://i.imgur.com/4cT4t80.png">
 </p>
+
+[You Tube preview for version 2.0](https://www.youtube.com/watch?v=RoMLgFxj1ic) 
+
+[prior to version 2.0 (old video)](https://www.youtube.com/watch?v=0LUJ6N95-bk) 
